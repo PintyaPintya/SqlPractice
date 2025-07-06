@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace SqlQueryPractice.Models;
+﻿namespace SqlQueryPractice.Models;
 
 public partial class BatchStudent
 {
